@@ -1,0 +1,58 @@
+<p1>date</p1>
+
+<h1>Middle school side</h1>
+<div class="Row1">
+                <div id="cell1">Monday--------   </div>
+                <div id="cell2">Tuesday-------- </div>
+                <div id="cell3">Wednesday----- </div>
+            </div>
+
+            <div class="Row2">
+                <div id="cell4">Thursday-------</div>
+                <div id="cell5">Friday----------</div>
+                </div>
+        </div>
+
+     
+        </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1>High school side</h1>
+<div class="Row1">
+                <div id="cell1">Monday-------</div>
+                <div id="cell2">Tuesday--------</div>
+                <div id="cell3">Wednesday-----</div>
+            </div>
+
+            <div class="Row2">
+                <div id="cell4">Thursday-------</div>
+                <div id="cell5">Friday----------</div>
+                </div>
+        </div>
+
+     
+        </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="Row1">
+                <div id="cell1">Monday--------</div>
+                <div id="cell2">Tuesday--------</div>
+                <div id="cell3">Wednesday-----</div>
+                </div>
+
+            <div class="Row2">
+                <div id="cell4">Thursday-------</div>
+                <div id="cell5">Friday----------</div>
+            
+            </div>
+        </div>
+                
